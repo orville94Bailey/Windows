@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1395717234 source:c:\users\jeremy\desktop\240 c++\windows\windows\window.cpp
+	"Window.h"
+	<iostream>
+	<stdlib.h>
+
+1395717059 c:\users\jeremy\desktop\240 c++\windows\windows\window.h
+
+1395717063 source:c:\users\jeremy\desktop\240 c++\windows\windows\main.cpp
+	"Window.h"
+
